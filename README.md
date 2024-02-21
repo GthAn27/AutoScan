@@ -1,4 +1,4 @@
-# Escaneo de Nmap automatizado con Python
+# Escaneos automatizados con Python
 
 Una herramienta para escanear de forma automatizada.
 
