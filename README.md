@@ -2,8 +2,14 @@
 
 Una herramienta para escanear de forma automatizada.
 
-## Instalación
+## Instalación y uso
 
-bash install.sh
+1. bash install.sh
+
+2. python3 scanner.py
+
+3. Disfruta :)
+
+====================
 
 Autor/a: Gth
